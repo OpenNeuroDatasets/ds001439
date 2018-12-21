@@ -1,0 +1,16 @@
+onset	duration	trial_type
+17.5	[5]	difficultyTR
+27.5	[60]	Memory
+87.5	[10]	Memory
+95.0	[5]	difficultyTR
+105	60	Journal
+165.0	[10]	difficultyTR
+175.0	[5]	storyTR
+185	60	Estimate
+245.0	[10]	difficultyTR
+255.0	[5]	storyTR
+265	60	Imagine
+325.0	[10]	difficultyTR
+337.5	[5]	storyTR
+347.5	[60]	Memory
+407.5	[10]	difficultyTR
